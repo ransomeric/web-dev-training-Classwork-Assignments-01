@@ -1,0 +1,12 @@
+div{
+    margin: auto;
+    width: 20%;
+}
+
+.form{
+    text-align: center;
+}
+
+.finish, .finish:hover, .finish:active, .finish:visited {
+    background-color: #a26471;
+}
